@@ -3,7 +3,7 @@
 # Miguel Ángel Sáez Martínez – IT Systems Technician & Web Dev Student
 
 ## 👨‍💻 About me
-Microcomputer Systems and Networks (SMR) Technician, currently in my first year of Web Application Development (DAW). My passion for technology started at a young age, driven by my interest in computers and video games. What began as a curiosity for assembling hardware and pushing systems to their maximum performance has evolved into a well-rounded technical profile. Thanks to my hybrid background, I combine system, server, and network administration with software development and programming.
+Microcomputer Systems and Networks (SMR) Technician, currently in my second year of Web Application Development (DAW). My passion for technology started at a young age, driven by my interest in computers and video games. What began as a curiosity for assembling hardware and pushing systems to their maximum performance has evolved into a well-rounded technical profile. Thanks to my hybrid background, I combine system, server, and network administration with software development and programming.
 
 ## 🛠️ Skills
 * **Operating Systems:** `Windows (7, 10, 11, Server 2016)`, `Ubuntu / Ubuntu Server`, `Linux Mint`, `Fedora`, and experience exploring various Linux distributions.
@@ -48,7 +48,7 @@ git push origin main
 # Miguel Ángel Sáez Martínez – Técnico SMR y Estudiante de DAW
 
 ## 👨‍💻 Sobre mí
-Técnico en Sistemas Microinformáticos y Redes (SMR) y actualmente cursando 1º de Desarrollo de Aplicaciones Web (DAW). Mi vocación por la tecnología nació desde pequeño, impulsada por mi afición a los ordenadores y los videojuegos. Lo que comenzó como una curiosidad por montar hardware y llevar los equipos a su máximo rendimiento, se ha transformado en un perfil técnico completo. Gracias a mi formación híbrida, combino la administración de sistemas, servidores y redes con el desarrollo de software y la programación.
+Técnico en Sistemas Microinformáticos y Redes (SMR) y actualmente cursando 2º de Desarrollo de Aplicaciones Web (DAW). Mi vocación por la tecnología nació desde pequeño, impulsada por mi afición a los ordenadores y los videojuegos. Lo que comenzó como una curiosidad por montar hardware y llevar los equipos a su máximo rendimiento, se ha transformado en un perfil técnico completo. Gracias a mi formación híbrida, combino la administración de sistemas, servidores y redes con el desarrollo de software y la programación.
 
 ## 🛠️ Habilidades
 * **Sistemas Operativos:** `Windows (7, 10, 11, Server 2016)`, `Ubuntu / Ubuntu Server`, `Linux Mint`, `Fedora` y experiencia explorando diversas distribuciones.
